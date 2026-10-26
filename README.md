@@ -33,13 +33,14 @@ This project was developed as an academic assignment to apply Java programming, 
 ## Screenshot
 
 ### Dashboard
-![Dashboard](screenshots/Screenshot%202026-10-27%20054607.png)
+<img width="960" height="509" alt="Screenshot 2026-10-27 054607" src="https://github.com/user-attachments/assets/4a78dfb0-50cb-47cb-a4bd-16865c459803" />
 
 ### Student Management
-![Student Management](screenshots/Screenshot%202026-10-27%20054716.png)
+<img width="960" height="511" alt="Screenshot 2026-10-27 054716" src="https://github.com/user-attachments/assets/8724940e-4c9a-4615-bedb-9f7c40594ddf" />
 
 ### Attendance Management
-![Attendance Management](screenshots/Screenshot%202026-10-27%20054752.png)
+<img width="960" height="511" alt="Screenshot 2026-10-27 054752" src="https://github.com/user-attachments/assets/02a0caf3-7146-4249-8baf-6f87388d2346" />
+
 ## Author
 **Mir Maryam Naveed**
 
