@@ -1,5 +1,4 @@
 # Student-Attendance-Management-System
-# Student Attendance Management System
 
 A Java-based application designed to manage student records, courses, class sessions, and attendance efficiently. The system uses a database to store and organize academic information.
 
