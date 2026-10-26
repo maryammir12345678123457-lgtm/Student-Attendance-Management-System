@@ -30,6 +30,16 @@ A Java-based application designed to manage student records, courses, class sess
 
 ## Purpose
 This project was developed as an academic assignment to apply Java programming, database management, and data structures in a practical student attendance management system.
+## Screenshot
+
+### Dashboard
+![Dashboard](screenshots/Screenshot%202026-10-27%20054607.png)
+
+### Student Management
+![Student Management](screenshots/Screenshot%202026-10-27%20054716.png)
+
+### Attendance Management
+![Attendance Management](screenshots/Screenshot%202026-10-27%20054752.png)
 ## Author
 **Mir Maryam Naveed**
 
