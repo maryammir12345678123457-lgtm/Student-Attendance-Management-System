@@ -24,9 +24,8 @@ A Java-based application designed to manage student records, courses, class sess
 
 ## Getting Started
 1. Clone or download this repository.
-2. Open the project in IntelliJ IDEA.
-3. Configure the required JDK and database.
-4. Run the main application class.
+2. Double-click `StudentAttendanceSystem.exe`. Keep the `app` and `runtime` folders next to the exe.
+3. Or open the project in IntelliJ IDEA, configure the JDK, and run the main application class.
 
 ## Purpose
 This project was developed as an academic assignment to apply Java programming, database management, and data structures in a practical student attendance management system.
